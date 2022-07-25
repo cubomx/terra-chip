@@ -1,0 +1,1 @@
+Terraform state storage is free.
